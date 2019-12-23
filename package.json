@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/janpekarguru/cordova-plugin-webview"
+    "url": "https://github.com/acedigibits/cordova-plugin-webview"
   },
   "keywords": [
     "cordova",
@@ -27,6 +27,6 @@
       "version": ">=3.1.0"
     }
   ],
-  "author": "jan.pekar@gmail.com",
+  "author": "acedigibits@gmail.com",
   "license": "Apache 2.0"
 }
