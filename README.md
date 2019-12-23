@@ -10,7 +10,7 @@ Opens up to 6 inappBrowsers on screen
 This plugin was originally commissioned by [ZeGenie Inc] [ze].
 
 ### Install
-    cordova plugin add https://github.com/janpekarguru/cordova-plugin-multi-webview
+    cordova plugin add https://github.com/acedigibits/cordova-plugin-multi-webview
 ### Remove
     cordova plugin remove cordova-plugin-ebwebview
 
